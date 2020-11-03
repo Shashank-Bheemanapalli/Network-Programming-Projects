@@ -1,0 +1,9 @@
+{
+	"operation": "delete",
+	"tableName": "Pollution_Stats",
+	"payload": {
+		"Key": {
+			"Rank": "7"
+		}
+    } 
+}

@@ -1,0 +1,7 @@
+{
+    "operation": "read",
+    "tableName": "Pollution_Stats",
+    "payload": {
+        "TableName": "Pollution_Stats"
+    }
+}

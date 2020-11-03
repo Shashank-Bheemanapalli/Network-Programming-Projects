@@ -1,0 +1,23 @@
+{
+    "operation": "update",
+    "tableName": "Pollution_Stats",
+    "payload": {
+      "Key": {
+        "Rank": "7"
+      },
+      "AttributeUpdates": {
+        "City": {
+          "Value": "Shanghai",
+          "Action": "PUT"
+        },
+        "Country": {
+          "Value": "China",
+          "Action": "PUT"
+        },
+        "Score": {
+          "Value": "71.4118",
+          "Action": "PUT"
+        }
+      }
+    }
+  }

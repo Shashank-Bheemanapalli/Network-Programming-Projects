@@ -1,0 +1,12 @@
+{
+    "operation": "create",
+    "tableName": "Pollution_Stats",
+    "payload": {
+        "Item": {
+            "Rank": "8",
+            "City": "Buenos Aires",
+            "Country": "Argentina",
+            "Score": "68.7426"
+        }
+    }
+}
